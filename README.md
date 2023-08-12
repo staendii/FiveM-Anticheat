@@ -1,9 +1,5 @@
-C O R E S H I E L D - F E A T U R E S
-CoreShield is constantly being developed to provide its users with ongoing new features and improved security measures. 
-Through regular updates, they stay protected and have access to the latest innovations.
-
-➤ M A I N - F E A TU R E S
-
+## CORE SHIELD
+### Premium FiveM Anticheat
 + Anti Stopper
 + Anti NoClip
 + Anti Freecam
@@ -49,11 +45,7 @@ Through regular updates, they stay protected and have access to the latest innov
 + Anti Trigger Server Event
 + Anti Trigger Client Event
 
-+ Full RedEngine Detection
-+ Full Hx Detection
 + Full Eulen Detection
-
-➤ E X T R A - F E A TU R E S
 
 + Admin Menu
 + 24/7 Support
@@ -63,3 +55,5 @@ Through regular updates, they stay protected and have access to the latest innov
 + Discord Logs
 + Bypass System
 + Web-Panel
+
+https://coreshield.net
